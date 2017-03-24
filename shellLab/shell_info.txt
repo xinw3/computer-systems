@@ -1,0 +1,5 @@
+scp ~/Downloads/tshlab-handout.tar xinw3@houndshark.ics.cs.cmu.edu:~/private/18600/
+
+scp xinw3@houndshark.ics.cs.cmu.edu:~/private/18600/tshlab-handout/tsh.c ~/Desktop/shell/
+
+scp ~/Desktop/shell/tsh.c xinw3@houndshark.ics.cs.cmu.edu:~/private/18600/tshlab-handout/

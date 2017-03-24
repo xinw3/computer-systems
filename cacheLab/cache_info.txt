@@ -1,0 +1,13 @@
+scp xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/csim.c ~/Desktop/
+
+scp ~/Desktop/csim.c xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/csim.c
+
+scp ~/Desktop/enze.c xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/csim.c
+
+scp xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/trans.c ~/Desktop/
+
+scp ~/Desktop/tran.c xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/trans.c
+
+scp ~/Desktop/tra.c xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/trans.c
+
+scp xinw3@houndshark.ics.cs.cmu.edu:private/18600/cachelab-handout/xinw3_handin.tar ~/Desktop/

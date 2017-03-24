@@ -1,0 +1,1 @@
+scp ~/Desktop/malloc/mm_final2.c xinw3@houndshark.ics.cs.cmu.edu:~/private/18600/malloclabcheckpoint-handout/mm.c
